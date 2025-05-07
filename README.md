@@ -1,6 +1,6 @@
 # louis-cite
 
-⚖️ MVP legal‑citation validator: extract, verify, rank, and highlight citations.
+legal‑citation validator: extract, verify, rank, and highlight citations.
 
 ## Quick start
 
